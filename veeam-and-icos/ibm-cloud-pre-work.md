@@ -1,6 +1,12 @@
-# Using ICOS for Veeam Scale Out Repository
+---
+description: >-
+  This will guide you through what needs to be done on the IBM Cloud side to
+  allow Veeam to offload backups in to our Object Storage Bucket.
+---
 
-## Getting Super Powers
+# IBM Cloud Pre-Work
+
+## Create a Service ID
 
 Becoming a super hero is a fairly straight forward process:
 

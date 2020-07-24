@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Using ICOS for Veeam Scale Out Repository](README.md)
+
+## Veeam and ICOS
+
+* [IBM Cloud Pre-Work](veeam-and-icos/ibm-cloud-pre-work.md)
 
